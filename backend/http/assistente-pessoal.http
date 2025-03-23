@@ -1,0 +1,7 @@
+POST http://localhost:5678/webhook/59168442-6cb4-41bd-b2ab-d968509eeb89
+Content-Type: application/json
+
+{
+  "chatId": "123457",
+  "menssagem": "Você consegue agendar uma data para esta conversa?"
+}
